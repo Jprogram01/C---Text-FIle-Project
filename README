@@ -1,20 +1,18 @@
-
+# Overview
 
 I wrote a program that reads text from a file, organizes the data into a list the goes from highest word usage count to lowest word usage count
 
 The purpose for this program is that I wanted to better familiarize myself with the language of C++, and also get more familiar with working with files in a coding situation.
 
-[Software Demo Video](https://byui-cse.github.io/cse310-course/modules/language_cpp/README.md)
+[Software Demo Video](https://www.loom.com/share/71cc9247866640fe9d604a407de52655)
 
 # Development Environment
-
 
 I used VS code and text files to develop this software.
 
 I used C++ and built in functions for this program.
-# Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+# Useful Websites
 
 - [Visual Studio C++ Environment Setup Tutorial](https://code.visualstudio.com/docs/languages/cpp)
 - [W3 Schools C++](https://www.w3schools.com/cpp/)
@@ -22,8 +20,6 @@ I used C++ and built in functions for this program.
 
 
 # Future Work
-
-
 
 - Sort words by word type (noun, verb, adjective)
 - Add web scraping so the program function can be used for webpages
